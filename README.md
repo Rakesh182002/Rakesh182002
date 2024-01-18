@@ -1,9 +1,5 @@
 Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web Applications. My playground? Spring Boot, MVC, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
 
-• 🔭 I’m currently working on Spring Boot
-
-• 🌱 I’m currently learning AI
-
 • 💬 Ask me about Java
 
 • 📫 How to reach me: rakeshramesh182002@gmail.com
